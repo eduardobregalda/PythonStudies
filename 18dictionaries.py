@@ -2,9 +2,9 @@
 #                        ordered and changeable. No duplicates
 
 capitals = {"USA": "Washington D.C.",
-                    "India": "New Delhi",
-                    "China": "Beijing",
-                    "Russia": "Moscow"}
+            "India": "New Delhi",
+            "China": "Beijing",
+            "Russia": "Moscow"}
 
    
 #print(capitals.get("Germany"))

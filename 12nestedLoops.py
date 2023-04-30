@@ -6,5 +6,5 @@ symbol = input("enter a symbol to use:")
 
 for i in range(rows):
     for j in range(columns):
-        print(symbol,end="")   #end="" serve para nao gerar nova linha a cada iteração
+        print(symbol,end="")  
     print()
